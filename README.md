@@ -11,4 +11,5 @@ A simple form with Materialize CSS and a Font Awesome remove icon.
 - Clear tasks - To clear all tasks, click the "CLEAR TASKS" button. This event will clear all tasks from local storage.
 - Filter tasks - The filter event fires on "keyup". The task items that do not have matching characters with the input will have a display of none. 
 
-- Known bug - The logic does not currently check for duplicate inputs. 
+## Known bug
+- The logic does not currently check for duplicate inputs. 
